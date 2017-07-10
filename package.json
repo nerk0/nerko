@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nerko1/nerko/issues"
   },
-  "homepage": "https://github.com/nerko1/nerko#readme"
+  "homepage": "https://github.com/nerko1/nerko#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
